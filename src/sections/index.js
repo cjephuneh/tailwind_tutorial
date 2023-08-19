@@ -6,6 +6,7 @@ import CustomerReviews from "./CustomerReviews";
 import SuperQuality from "./SuperQuality";
 import Subscribe from "./Subscribe.jsx"
 import SpecialOffer from './SpecialOffer'
+import Nav from "../components/navbar";
 
 
 export {
@@ -16,5 +17,6 @@ export {
     CustomerReviews,
     SuperQuality,
     Subscribe,
-    SpecialOffer
+    SpecialOffer,
+    Nav
 };
